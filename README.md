@@ -11,3 +11,5 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 * 100% Polyster Cleanroom Cloth Wipes - https://www.amazon.com/dp/B08P2MCFK7?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_1
 
 * 99.9% IPA - https://www.amazon.com/dp/B08CGCHWMP?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_2
+
+# TOTAL: $89.21
