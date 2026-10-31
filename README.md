@@ -13,3 +13,9 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 * 99.9% IPA - https://www.amazon.com/dp/B08CGCHWMP?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_2
 
 # TOTAL: $89.21
+
+## Flow simulation
+
+![Flow simulation — velocity magnitude streamlines around the drone frame](docs/flow-simulation.jpg)
+
+Velocity-magnitude streamline render of airflow around the frame.
