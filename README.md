@@ -14,8 +14,8 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 
 # TOTAL: $89.21
 
-## Flow simulation
+## Rain simulation
 
-![Flow simulation — velocity magnitude streamlines around the drone frame](docs/flow-simulation.jpg)
+![Rain simulation — velocity magnitude streamlines around the drone frame](docs/flow-simulation.jpg)
 
-Velocity-magnitude streamline render of airflow around the frame.
+Rain-flow simulation: streamlines colored by velocity magnitude showing how water moves around the frame.
