@@ -6,13 +6,15 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 
 * MG Chemicals 419D, the acrylic conformal coating (55 mL brush-on bottle) - https://www.amazon.com/gp/product/B07B8RY7M6/ref=ox_sc_act_title_1?smid=A15QN6QABYC6HS&psc=1
 
+* Pro Grade Acid Brushes, 3/8 inch flux brush for glue & grease, 36 count - https://www.amazon.com/dp/B07PHG2DQY?niid=nl_cl_lst_a_1_0&ref_=nl_cl_lst_a_1_0&nrid=GP3D7KR83SW5MR47MZR4
+
 * Polyimide Masking Tape - https://www.amazon.com/dp/B072Z92QZ2?psc=1&ref_=cm_sw_r_cp_ud_ct_M9790J4EYZ5D7RTXBSFN
 
 * 100% Polyster Cleanroom Cloth Wipes - https://www.amazon.com/dp/B08P2MCFK7?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_1
 
 * 99.9% IPA - https://www.amazon.com/dp/B08CGCHWMP?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_2
 
-# TOTAL: $76.96
+# TOTAL: $83.45
 
 ## Why 419D instead of 422C
 
