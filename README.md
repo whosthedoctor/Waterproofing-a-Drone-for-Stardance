@@ -12,7 +12,7 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 
 * 99.9% IPA - https://www.amazon.com/dp/B08CGCHWMP?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_2
 
-# TOTAL: $98.25
+# TOTAL: $76.96
 
 ## Why 419D instead of 422C
 
