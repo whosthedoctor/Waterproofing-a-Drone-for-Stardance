@@ -1,4 +1,5 @@
-# Waterproofing-a-Drone-for-Stardance
+# Waterproofing-a-Drone-for-Stardance (DENIED)
+
 Simply, I need some MG Chemicals products in order to conformal coat my drone ESC and FC, as well as the transmitter.
 I live in a very rainy area and would love to fly my 3d Printed FPV drone in the rain, so # I need the following products:
 
