@@ -10,11 +10,9 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 
 * ELEGOO High Temp Tape, 4 pack polyimide high temperature resistant tape - https://www.amazon.com/dp/B072Z92QZ2?psc=1&ref_=cm_sw_r_cp_ud_ct_M9790J4EYZ5D7RTXBSFN
 
-* AAWipes Cleanroom Cloth Wipes 6"x6", bag of 150 pcs, 100% polyester - https://www.amazon.com/dp/B08P2MCFK7?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_1
-
 * MaxTite Isopropyl Alcohol 99.9%, 32 oz - https://www.amazon.com/dp/B08CGCHWMP?psc=1&ref_=cm_sw_r_cp_ud_ct_Q1X3JD038WG1KKG7QEHT_2
 
-# TOTAL: $90.40
+# TOTAL: $72.41
 
 ## Why 419D instead of 422C
 
