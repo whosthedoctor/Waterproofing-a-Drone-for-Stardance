@@ -17,7 +17,7 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 ## Why 419D instead of 422C
 
 Switched from MG Chemicals 422C (silicone) to 419D (acrylic) for two reasons:
-- You can solder through acrylic — the soldering iron melts it, so you can rework a joint without stripping the coating first. Silicone (422C) can't be soldered through and is hard to remove.
+- You can solder through 419D. 422C can't be soldered through and is hard to remove.
 - The 419D is a brush-on bottle, not an aerosol. Brush-on gives precise control over where the coating goes (and keeps it off connectors), with no overspray.
 
 ## Rain simulation
