@@ -1,19 +1,18 @@
-# Waterproofing-a-Drone-for-Stardance (DENIED)
-
+# Waterproofing-a-Drone-for-Stardance
 Simply, I need some MG Chemicals products in order to conformal coat my drone ESC and FC, as well as the transmitter.
 I live in a very rainy area and would love to fly my 3d Printed FPV drone in the rain, so # I need the following products:
 
-* Black Light Flashlight, Evtek MOWETOO 395nm Mini Zoomable UV Light - https://www.amazon.com/dp/B0DN12T5DZ?psc=1&ref_=cm_sw_r_cp_ud_ct_V2YWPMTYD7QJ9TQN1SVC
+* UV Light 395nm Blacklight Flashlight: Vansky 12 LED Black Light Mini - $6.99
 
 * MG Chemicals 419D, the acrylic conformal coating (55 mL brush-on bottle) - https://www.amazon.com/gp/product/B07B8RY7M6/ref=ox_sc_act_title_1?smid=A15QN6QABYC6HS&psc=1
 
-* Pro Grade Acid Brushes, 3/8 inch flux brush for glue & grease, 36 count - https://www.amazon.com/dp/B07PHG2DQY?niid=nl_cl_lst_a_1_0&ref_=nl_cl_lst_a_1_0&nrid=GP3D7KR83SW5MR47MZR4
+* Forney 60300 Solder Flux Brush, 3-Pack, 6 in - $3.69
 
-* ELEGOO High Temp Tape, 4 pack polyimide high temperature resistant tape - https://www.amazon.com/dp/B072Z92QZ2?psc=1&ref_=cm_sw_r_cp_ud_ct_M9790J4EYZ5D7RTXBSFN
+* MS WGO 12mm X 33m Heat Tape, heat resistant tape - $4.99
 
 * ForPro 99% Isopropyl Alcohol (IPA), 32oz, Pure & Unadulterated Alcohol - https://a.co/d/0c2RgyxP
 
-# TOTAL: $68.45
+# TOTAL: $57.65
 
 ## Why 419D instead of 422C
 
