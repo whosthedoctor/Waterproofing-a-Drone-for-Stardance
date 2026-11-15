@@ -10,7 +10,7 @@ I live in a very rainy area and would love to fly my 3d Printed FPV drone in the
 
 * ELEGOO High Temp Tape, 4 pack polyimide high temperature resistant tape - https://www.amazon.com/dp/B072Z92QZ2?psc=1&ref_=cm_sw_r_cp_ud_ct_M9790J4EYZ5D7RTXBSFN
 
-* ForPro 99% Isopropyl Alcohol (IPA), 32oz, Pure & Unadulterated Alcohol - $8.99
+* ForPro 99% Isopropyl Alcohol (IPA), 32oz, Pure & Unadulterated Alcohol - https://a.co/d/0c2RgyxP
 
 # TOTAL: $68.45
 
